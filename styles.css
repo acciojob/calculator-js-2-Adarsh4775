@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+
+/* Your CSS Code here. */
+button {
+	width:100px;
+	height:100px;
+	font-weight:bolder;
+	font-size:20px;
+	
+}
+#equal{
+	color:white;
+	background-color:blue;
+}
